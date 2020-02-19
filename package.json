@@ -1,6 +1,6 @@
 {
   "name": "node_what_todo",
-  "version": "1.0.0",
+  "version": "6.12.1",
   "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
   "main": "server.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "handlebars": "^4.7.3",
     "jquery": "^3.4.1",
     "mysql": "^2.18.1",
-    "node": "^13.8.0"
+    "node": "^12.13.1"
   },
   "devDependencies": {},
   "repository": {
