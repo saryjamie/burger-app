@@ -17,5 +17,13 @@
     "mysql": "^2.18.1",
     "node": "^13.8.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saryjamie/burger-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saryjamie/burger-app/issues"
+  },
+  "homepage": "https://github.com/saryjamie/burger-app#readme"
 }
